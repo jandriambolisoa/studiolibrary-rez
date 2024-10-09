@@ -1,0 +1,3 @@
+[submodule "python/studiolibrary"]
+	path = python/studiolibrary
+	url = https://github.com/krathjen/studiolibrary.git
