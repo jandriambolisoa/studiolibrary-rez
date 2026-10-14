@@ -1,6 +1,6 @@
 name = "studiolibrary"
 
-version = "2.16.0"
+version = "2.21.7"
 
 authors = [
     "krathjen",
@@ -13,7 +13,7 @@ description = \
     """
 
 requires = [
-    "python-3+",
+    ".python-3+",
     "maya-2025+"
 ]
 
